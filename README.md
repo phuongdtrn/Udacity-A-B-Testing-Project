@@ -49,4 +49,4 @@ Check whether the signs of the difference of the metrics between the experiment 
 ## Recommendations
 The purpose of this experiment is to reduce the number of frustrated students who left the free trial because they didn't have enough time without significantly reducing the number of students to continue past the free trial and eventually complete the course. Based on the results, we can say that the free trial screener will reduce enrollment. However, there is not enough evidence that the screener will help encourage more students to make payment.
 
-As a result, I would not recommend launching the screener. Udacity should run more follow-up experiments to gather enough evidence before incorporating this new feature.
+As a result, I would not recommend launching the screener. Udacity should run more follow-up experiments to gather enough evidence before incorporating this new feature. One way to see the impact of the experiment is to run the experiment for a longer period of time (such as 2-3 months). If the revenue declines over limit, the experiment should be stopped.

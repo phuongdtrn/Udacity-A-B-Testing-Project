@@ -21,6 +21,9 @@ Evaluation metrics
 - Retention: That is, number of user-ids to remain enrolled past the 14-day boundary (and thus make at least one payment) divided by number of user-ids to complete checkout. (dmin= 0.01)
 - Net conversion: That is, number of user-ids to remain enrolled past the 14-day boundary (and thus make at least one payment) divided by the number of unique cookies to click the "Start free trial" button. (dmin= 0.0075)
 
+<img width="499" alt="Screen Shot 2022-04-15 at 3 30 07 PM" src="https://user-images.githubusercontent.com/77939423/164372033-6c417d9b-069c-48de-921c-434c842f4edd.png">
+
+
 ## Recommendations
 The purpose of this experiment is to reduce the number of frustrated students who left the free trial because they didn't have enough time without significantly reducing the number of students to continue past the free trial and eventually complete the course. Based on the results, we can say that the free trial screener will reduce enrollment. However, there is not enough evidence that the screener will help encourage more students to make payment.
 

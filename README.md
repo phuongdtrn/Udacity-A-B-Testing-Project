@@ -43,6 +43,7 @@ A metric is statically or practically significant if:
 
 ### Sign Test
 Check whether the signs of the difference of the metrics between the experiment and control groups agree with the confidence interval of the difference.
+
 <img width="369" alt="Screen Shot 2022-04-20 at 11 53 17 PM" src="https://user-images.githubusercontent.com/77939423/164374789-be624cab-73fc-45e2-9ff3-85684de1e3b5.png">
 
 ## Recommendations
